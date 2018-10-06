@@ -1,2 +1,4 @@
 # resizeImage
-A python script to resize images
+A python script to resize images. 
+
+Usage: ./resize.py <image path>
