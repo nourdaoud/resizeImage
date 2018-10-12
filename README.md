@@ -4,7 +4,7 @@ A python script to resize images using Pillow (the PIL fork). It maintains aesth
 Tested with Python version python 2.7.10 and pillow (The PIL fork - version 1.1.7 - to install: $ pip install Pillow)
 
 ## Expected Output 
-The image is turned into a square by padding it and shown. Its dimensions are  displayed in the console. It's also stored under <path/to/image_squared.extension>
+The image is turned into a square by padding it - the square image is opened. Its dimensions are  displayed in the console. It's also stored under <path/to/image_squared.extension>
 
 ## Testing Method: 
 Run the following : python resize.py path/to/image.ext
